@@ -20,7 +20,6 @@
 		}
 	}
 """
-
    'Short cut for writing react set state':
      'prefix': 'ss'
      'body': """
@@ -28,7 +27,6 @@ this.setState({
 	key: value
 });
 """
-
    'Short cut for writing map':
      'prefix': 'map'
      'body': """
